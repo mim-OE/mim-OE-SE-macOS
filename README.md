@@ -10,7 +10,7 @@
 
 ## Installation Guide
 
-1. Download the latest .zip files for the latest release [HERE](https://github.com/mimik-mimOE/mimOE-SE-macOS/releases).
+1. Download the latest .zip files for the latest release [HERE](https://github.com/mim-OE/mimOE-SE-macOS/releases).
 2. Unzip the package.
 3. Open a terminal and navigate to the unzipped directory.
 4. Run the start script to launch mimOE:
