@@ -1,7 +1,7 @@
 
-# mimOE-SE-macOS
+# mim-OE-SE-macOS
 
-**mimOE (mim Operating Environment)**, mimOE-SE-macOS Standard Edition for Apple macOS.
+**mim OE (mim Operating Environment)**, mim-OE-SE-macOS Standard Edition for Apple macOS.
 
 ## Before You Start
 
@@ -10,10 +10,10 @@
 
 ## Installation Guide
 
-1. Download the latest .zip files for the latest release [HERE](https://github.com/mim-OE/mimOE-SE-macOS/releases).
+1. Download the latest .zip files for the latest release [HERE](https://github.com/mim-OE/mim-OE-SE-macOS/releases).
 2. Unzip the package.
 3. Open a terminal and navigate to the unzipped directory.
-4. Run the start script to launch mimOE:
+4. Run the start script to launch mim OE:
 
    ```
    ./start.sh
@@ -24,5 +24,5 @@
 ## Notes:
 
 - After extracting, a directory may be created. Navigate into this directory to find the `start.sh` script.
-- Do not close the terminal window where mimOE is running. Closing this window will terminate the mimOE process.
-- To stop mimOE, close the terminal or use the keyboard shortcut `CTRL + C` in the terminal where it is running.
+- Do not close the terminal window where mim OE is running. Closing this window will terminate the mim OE process.
+- To stop mim OE, close the terminal or use the keyboard shortcut `CTRL + C` in the terminal where it is running.
